@@ -1,5 +1,9 @@
 # cinemaTime
-
+https://i.imgur.com/uKeK42t.png
 Created with CodeSandbox
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfB1KQa8kPgHBwQtVFPJAw%2Fcinemanight%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
+
+
+
+![https://www.figma.com/file/rfB1KQa8kPgHBwQtVFPJAw/cinemanight?node-id=0%3A1](https://i.imgur.com/uKeK42t.png)
